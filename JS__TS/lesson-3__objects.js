@@ -9,7 +9,7 @@
 // 	};
 // 	teamPlayed: any[];
 // }
-var children = {
+var players = {
     name: "George",
     surName: "Alekseichyk",
     birth: 2017,
@@ -22,4 +22,4 @@ var children = {
     },
     teamPlayed: ["ДЮСШ-4", "Мастер мяча", "Spartak"],
 };
-console.log(children.goals());
+console.log(players.goals());
