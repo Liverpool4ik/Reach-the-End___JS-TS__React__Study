@@ -59,3 +59,7 @@ const players = {
 };
 
 console.log(players.goals());
+
+const GiyaBio = [players.teamPlayed, "Borussia", "Barcelona"];
+
+console.log(GiyaBio);
